@@ -25,9 +25,9 @@ To run the tests, you will need:
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/KuroKepi/reqres-api-testing.git
+   git clone https://github.com/KuroKepi/ReqresAPI_Testing.git
 2. Navigate to the project directory:
-   cd reqres-api-testing
+   cd ReqresAPI_Testing
 3. Install dependencies:
    npm install
 4. Run the tests:
