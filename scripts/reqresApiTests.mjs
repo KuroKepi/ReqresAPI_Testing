@@ -7,6 +7,7 @@ describe('Reqres API Testing', () => {
         expect(response.status).to.equal(200);
         expect(response.data.page).to.equal(3);
         
+        // Tampilkan data pengguna
         console.log('Data from Page 3:', response.data);
     });
 
